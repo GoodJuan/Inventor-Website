@@ -1,0 +1,52 @@
+body {
+
+
+	
+	background-color: #f5f5dc ;
+	padding: 10000;
+	margin: 1000;
+	font-family: "Helvetica", "Arial" ;
+	margin-left: 2cm;
+	margin-right: 2cm;
+
+}
+
+header {
+
+	background-color: #f5f5dc;
+	border-bottom: 1px solid #e7e6e6;
+	padding-top: 14px;
+	text-align: center;
+	font-family: "Helvetica", "Arial";
+
+}
+
+footer {
+
+	text-align: right;
+}
+
+
+#test {
+	text-align: center;
+}
+
+.portrait, .mrfranklin1, .mrfranklin2{
+	text-align: center;
+	display: inline-block;
+}
+
+
+
+.heading1 {
+	text-align: center;
+}
+ 
+.firstPicture img{
+	border-radius: 90px;
+	height: 170px;
+}
+.portrait img{
+	border-radius: 90px;
+	height: 170px;
+}
